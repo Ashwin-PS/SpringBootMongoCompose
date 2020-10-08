@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.*;
 public class CompactDiscController {
 
 	// private Logger logger = Logger.getLogger(this.getClass());
+	//
 
 	@Autowired
 	private CompactDiscService service;
